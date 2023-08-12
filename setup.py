@@ -5,8 +5,8 @@ setup(
     version="0.0.1",
     description="Nested sampling in torch",
     url="https://github.com/undark-lab/torch-ns",
-    # author="",
-    # author_email="",
+    author="Christoph Weniger, Noemi Anau Montel",
+    author_email="c.weniger@uva.nl, n.anaumontel@uva.nl",
     packages=["torchns"],
     install_requires=[
         "numpy>=1.18.1",
