@@ -1,3 +1,7 @@
+# Authors:
+# Christoph Weniger <c.weniger@uva.nl>, June, July 2023
+# Noemi Anau Montel <n.anaumontel@uva.nl>, June, July, August 2023
+
 import torch
 import numpy as np
 from tqdm.auto import tqdm
