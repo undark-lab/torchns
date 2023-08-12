@@ -1,3 +1,6 @@
+# Authors:
+# Noemi Anau Montel <n.anaumontel@uva.nl>, July, August 2023
+
 import torch
 import numpy as np
 
