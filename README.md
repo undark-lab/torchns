@@ -33,12 +33,12 @@ pip install .
 - **Example usage:** [https://github.com/undark-lab/torchns/examples](https://github.com/undark-lab/torchns/examples)
 - **Support & discussion:** [https://github.com/undark-lab/torchns/discussions](https://github.com/undark-lab/torchns/discussions)
 - **Bug reports:** [https://github.com/undark-lab/torchns/issues](https://github.com/undark-lab/torchns/issues)
-- **Related paper:** `torchns` was first introduced in [arxiv:2307.xxxxx](https://arxiv.org/abs/2307.xxxxx).
+- **Related paper:** `torchns` was first introduced in [arxiv:2308.08597](https://arxiv.org/abs/2308.08597).
 
 ----
 ## Release Details
 
-- **v0.0.1** | *July 2023* | Initial release based on ...
+- **v0.0.1** | *August 2023* | Initial release based on [arxiv:2308.08597](https://arxiv.org/abs/2308.08597).
 
 ----
 ## Relevant other nested sampling packages
