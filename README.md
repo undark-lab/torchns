@@ -1,7 +1,9 @@
 # torchns
 Nested sampling in torch
 
-----
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+[![arXiv](https://img.shields.io/badge/arXiv-2308.08597%20-green.svg)](https://arxiv.org/abs/2308.08597)
+
 ## What is it?
 
 `torchns` is a nested sampler with a slice sampling exploration scheme based on [torch](https://github.com/pytorch/pytorch) library. It is designed to be integrated with the [swyft](https://github.com/undark-lab/swyft) sequential simulation-based inference code.
@@ -11,7 +13,7 @@ Its main features are:
 - Vectorized evaluations of the log-likelihood.
 - Functionality to define constrained prior regions, useful for sequential simulation-based inference applications. 
   
-----
+
 ## Installation
 
 - Change directory to wherever you would like to store the library, then run:
@@ -26,7 +28,7 @@ pip install .
 ```
 - This will install `torchns` in the current python environment that is active on your system and will be available via `import torchns`
 
-----
+
 ## Further information
 
 - **Source code:** [https://github.com/undark-lab/torchns](https://github.com/undark-lab/torchns)
@@ -35,12 +37,12 @@ pip install .
 - **Bug reports:** [https://github.com/undark-lab/torchns/issues](https://github.com/undark-lab/torchns/issues)
 - **Related paper:** `torchns` was first introduced in [arxiv:2308.08597](https://arxiv.org/abs/2308.08597).
 
-----
+
 ## Release Details
 
 - **v0.0.1** | *August 2023* | Initial release based on [arxiv:2308.08597](https://arxiv.org/abs/2308.08597).
 
-----
+
 ## Relevant other nested sampling packages
 - [jaxns](https://github.com/Joshuaalbert/jaxns) is a JAX based nested sampler.
 - [proxnest](https://github.com/astro-informatics/proxnest) implements the proximal nested sampling algorithm.
